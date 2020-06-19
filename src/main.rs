@@ -1,5 +1,7 @@
 mod print;
+mod debug;
 
 fn main() {
-    print::play()
+    // print::play()
+    debug::play()
 }
