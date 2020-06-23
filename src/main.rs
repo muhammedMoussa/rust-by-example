@@ -4,6 +4,7 @@ mod display;
 mod variables;
 mod literals;
 mod tuples;
+mod array;
 
 fn main() {
     // print::play()
@@ -11,5 +12,6 @@ fn main() {
     // display::play()
     // variables::play()
     // literals::play()
-    tuples::play()
+    // tuples::play()
+    array::play()
 }
