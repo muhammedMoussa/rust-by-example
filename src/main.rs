@@ -5,13 +5,8 @@ mod variables;
 mod literals;
 mod tuples;
 mod array;
+mod structs;
 
 fn main() {
-    // print::play()
-    // debug::play()
-    // display::play()
-    // variables::play()
-    // literals::play()
-    // tuples::play()
-    array::play()
+    structs::play()
 }
