@@ -1,8 +1,16 @@
 
 # Rust By Example!
 
-This repository is playing around **[rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/index.html)** while learning rust.
+This repository is playing around examples and activities **[rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/index.html)** while learning rust.
 
 **What's Inside**
 
- - [Formatted print](../master/src/print.rs)
+ - [print](../master/src/print.rs)
+ - [print_debug](../master/src/debug.rs)
+ - [print_display](../master/src/display.rs)
+ - [variables](../master/src/variables.rs)
+ - [literals](../master/src/literals.rs)
+ - [tuples](../master/src/tuples.rs)
+ - [array](../master/src/array.rs)
+ - [structs](../master/src/structs.rs)
+ - [enums](../master/src/enums.rs)
