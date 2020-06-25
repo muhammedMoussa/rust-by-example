@@ -6,7 +6,8 @@ mod literals;
 mod tuples;
 mod array;
 mod structs;
+mod enums;
 
 fn main() {
-    structs::play()
+    enums::play()
 }
