@@ -9,7 +9,8 @@ mod structs;
 mod enums;
 mod enum_use;
 mod enums_c_like;
+mod testcase_linked_list;
 
 fn main() {
-    enums_c_like::play();
+    testcase_linked_list::play();
 }
