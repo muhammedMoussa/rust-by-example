@@ -14,3 +14,4 @@ This repository is playing around examples and activities **[rust-by-example](ht
  - [array](../master/src/array.rs)
  - [structs](../master/src/structs.rs)
  - [enums](../master/src/enums.rs)
+ - [enum_use](../master/src/enum_use.rs)

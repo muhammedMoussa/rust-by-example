@@ -7,7 +7,8 @@ mod tuples;
 mod array;
 mod structs;
 mod enums;
+mod enum_use;
 
 fn main() {
-    enums::play()
+    enum_use::play()
 }
