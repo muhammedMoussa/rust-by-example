@@ -1,7 +1,7 @@
 
 # Rust By Example!
 
-This repository is playing around examples and activities **[rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/index.html)** while learning rust.
+This repository is playing around examples and activities of **[rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/index.html)** while learning rust.
 
 **What's Inside**
 
