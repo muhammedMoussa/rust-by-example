@@ -18,3 +18,4 @@ This repository is playing around examples and activities **[rust-by-example](ht
  - [enums_c_like](../master/src/enums_c_like.rs)
  - [testcase_linked_list](../master/src/testcase_linked_list.rs)
  - [constants](../master/src/constants.rs)
+ - [variable_bindings_mut](../master/src/variable_bindings_mut.rs)

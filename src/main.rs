@@ -11,7 +11,8 @@ mod enum_use;
 mod enums_c_like;
 mod testcase_linked_list;
 mod constants;
+mod variable_bindings_mut;
 
 fn main() {
-    constants::play();
+    variable_bindings_mut::play();
 }
