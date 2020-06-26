@@ -10,7 +10,8 @@ mod enums;
 mod enum_use;
 mod enums_c_like;
 mod testcase_linked_list;
+mod constants;
 
 fn main() {
-    testcase_linked_list::play();
+    constants::play();
 }
