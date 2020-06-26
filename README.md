@@ -15,3 +15,5 @@ This repository is playing around examples and activities **[rust-by-example](ht
  - [structs](../master/src/structs.rs)
  - [enums](../master/src/enums.rs)
  - [enum_use](../master/src/enum_use.rs)
+ - [enums_c_like](../master/src/enums_c_like.rs)
+ 

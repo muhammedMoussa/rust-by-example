@@ -8,7 +8,8 @@ mod array;
 mod structs;
 mod enums;
 mod enum_use;
+mod enums_c_like;
 
 fn main() {
-    enum_use::play()
+    enums_c_like::play();
 }
