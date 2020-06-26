@@ -1,17 +1,12 @@
-mod print;
-mod debug;
-mod display;
-mod variables;
-mod literals;
-mod tuples;
-mod array;
-mod structs;
-mod enums;
-mod enum_use;
-mod enums_c_like;
-mod testcase_linked_list;
-mod constants;
+#![feature(proc_macro_hygiene, decl_macro)]
+
+#[macro_use] extern crate rocket;
+
+#[get("/")]
+fn index() -> &'static str {
+    "Hello, world!"
+}
 
 fn main() {
-    constants::play();
+    rocket::ignite().mount("/", routes![index]).launch();
 }
