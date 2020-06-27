@@ -19,3 +19,4 @@ This repository is playing around examples and activities of **[rust-by-example]
  - [testcase_linked_list](../master/src/testcase_linked_list.rs)
  - [constants](../master/src/constants.rs)
  - [variable_bindings_mut](../master/src/variable_bindings_mut.rs)
+ - [scope](../master/src/scope.rs)
