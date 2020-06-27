@@ -14,7 +14,8 @@ mod constants;
 mod variable_bindings_mut;
 mod scope;
 mod declare_first;
+mod freezeing;
 
 fn main() {
-    declare_first::play();
+    freezeing::play();
 }
