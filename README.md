@@ -20,3 +20,4 @@ This repository is playing around examples and activities of **[rust-by-example]
  - [constants](../master/src/constants.rs)
  - [variable_bindings_mut](../master/src/variable_bindings_mut.rs)
  - [scope](../master/src/scope.rs)
+ - [declare_first](../master/src/declare_first.rs)

@@ -13,7 +13,8 @@ mod testcase_linked_list;
 mod constants;
 mod variable_bindings_mut;
 mod scope;
+mod declare_first;
 
 fn main() {
-    scope::play();
+    declare_first::play();
 }
