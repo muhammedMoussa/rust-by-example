@@ -1,3 +1,5 @@
+/**
+PREVIOUS_EXAMPLES
 mod print;
 mod debug;
 mod display;
@@ -13,7 +15,9 @@ mod testcase_linked_list;
 mod constants;
 mod variable_bindings_mut;
 mod scope;
-mod declare_first;
+mod declare_first; 
+*/
+// CURRENT_EXAMPLE
 mod freezeing;
 
 fn main() {
