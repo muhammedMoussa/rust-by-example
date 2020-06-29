@@ -17,10 +17,11 @@ mod variable_bindings_mut;
 mod scope;
 mod freezeing;
 mod declare_first; 
+mod cast;
 */
 // CURRENT_EXAMPLE
-mod cast;
+mod types_literals; 
 
 fn main() {
-    cast::play();
+    types_literals::play();
 }
