@@ -15,11 +15,12 @@ mod testcase_linked_list;
 mod constants;
 mod variable_bindings_mut;
 mod scope;
+mod freezeing;
 mod declare_first; 
 */
 // CURRENT_EXAMPLE
-mod freezeing;
+mod cast;
 
 fn main() {
-    freezeing::play();
+    cast::play();
 }

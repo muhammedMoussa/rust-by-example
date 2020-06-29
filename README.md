@@ -22,3 +22,4 @@ This repository is playing around examples and activities of **[rust-by-example]
  - [scope](../master/src/scope.rs)
  - [declare_first](../master/src/declare_first.rs)
  - [freezeing](../master/src/freezeing.rs)
+ - [cast](../master/src/cast.rs)
