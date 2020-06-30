@@ -18,10 +18,11 @@ mod scope;
 mod freezeing;
 mod declare_first; 
 mod cast;
+mod types_literals; 
 */
 // CURRENT_EXAMPLE
-mod types_literals; 
+mod inference; 
 
 fn main() {
-    types_literals::play();
+    inference::play();
 }
