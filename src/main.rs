@@ -19,10 +19,11 @@ mod freezeing;
 mod declare_first; 
 mod cast;
 mod types_literals; 
+mod inference; 
 */
 // CURRENT_EXAMPLE
-mod inference; 
+mod alias; 
 
 fn main() {
-    inference::play();
+    alias::play();
 }
