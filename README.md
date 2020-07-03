@@ -26,3 +26,4 @@ This repository is playing around examples and activities of **[rust-by-example]
  - [types_literals](../master/src/types_literals.rs)
  - [inference](../master/src/inference.rs)
  - [alias](../master/src/alias.rs)
+ - [from_into](../master/src/from_into.rs)

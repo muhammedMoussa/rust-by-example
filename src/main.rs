@@ -20,10 +20,11 @@ mod declare_first;
 mod cast;
 mod types_literals; 
 mod inference; 
+mod alias; 
 */
 // CURRENT_EXAMPLE
-mod alias; 
+mod from_into; 
 
 fn main() {
-    alias::play();
+    from_into::play();
 }
