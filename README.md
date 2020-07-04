@@ -36,3 +36,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 	 - [try_from_try_into](../master/src/try_from_try_into.rs) 
 	 - [to_from_strings](../master/src/to_from_strings.rs)
 - [expressions](../master/src/expressions.rs)
+- Flow of Control:
+	- [if_else](../master/src/if_else.rs)

@@ -23,11 +23,12 @@ mod inference;
 mod alias; 
 mod from_into; 
 mod try_from_try_into; 
+mod expressions; 
 mod to_from_strings; 
 */
 // CURRENT_EXAMPLE
-mod expressions; 
+mod if_else; 
 
 fn main() {
-    expressions::play();
+    if_else::play();
 }
