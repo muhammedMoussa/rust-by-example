@@ -22,10 +22,11 @@ mod types_literals;
 mod inference; 
 mod alias; 
 mod from_into; 
+mod try_from_try_into; 
 */
 // CURRENT_EXAMPLE
-mod try_from_try_into; 
+mod to_from_strings; 
 
 fn main() {
-    try_from_try_into::play();
+    to_from_strings::play();
 }
