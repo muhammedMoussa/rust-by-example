@@ -26,10 +26,11 @@ mod try_from_try_into;
 mod expressions; 
 mod to_from_strings; 
 mod if_else; 
+mod nested_loops; 
 */
 // CURRENT_EXAMPLE
-mod nested_loops; 
+mod loop_return; 
 
 fn main() {
-    nested_loops::play();
+    loop_return::play();
 }

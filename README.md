@@ -40,3 +40,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- [if_else](../master/src/if_else.rs)
 	- Loop:
 		- [nested_loops](../master/src/nested_loops.rs)
+		- [loop_return](../master/src/loop_return.rs)
+		
