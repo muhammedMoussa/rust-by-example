@@ -41,4 +41,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- Loop:
 		- [nested_loops](../master/src/nested_loops.rs)
 		- [loop_return](../master/src/loop_return.rs)
-		
+	- [while_loop](../master/src/while_loop.rs)
