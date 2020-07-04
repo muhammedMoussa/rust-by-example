@@ -38,3 +38,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 - [expressions](../master/src/expressions.rs)
 - Flow of Control:
 	- [if_else](../master/src/if_else.rs)
+	- Loop:
+		- [nested_loops](../master/src/nested_loops.rs)
