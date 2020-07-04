@@ -35,3 +35,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 	 - [from_into](../master/src/from_into.rs)
 	 - [try_from_try_into](../master/src/try_from_try_into.rs) 
 	 - [to_from_strings](../master/src/to_from_strings.rs)
+- [expressions](../master/src/expressions.rs)
