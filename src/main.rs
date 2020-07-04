@@ -28,10 +28,11 @@ mod to_from_strings;
 mod if_else; 
 mod nested_loops; 
 mod loop_return; 
+mod while_loop; 
 */
 // CURRENT_EXAMPLE
-mod while_loop; 
+mod for_and_range; 
 
 fn main() {
-    while_loop::play();
+    for_and_range::play();
 }
