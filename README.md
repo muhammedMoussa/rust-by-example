@@ -44,3 +44,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- [while_loop](../master/src/while_loop.rs)
 	- [for_and_range](../master/src/for_and_range.rs)
 - [match_flow](../master/src/match_flow.rs)
+	- Destructuring:
+		- [match_destructure_tuple](../master/src/match_destructure_tuple.rs)
