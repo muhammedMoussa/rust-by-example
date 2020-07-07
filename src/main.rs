@@ -31,10 +31,11 @@ mod loop_return;
 mod while_loop; 
 mod for_and_range; 
 mod match_flow; 
+mod match_destructure_tuple; 
 */
 // CURRENT_EXAMPLE
-mod match_destructure_tuple; 
+mod match_destructure_enum; 
 
 fn main() {
-    match_destructure_tuple::play();
+    match_destructure_enum::play();
 }
