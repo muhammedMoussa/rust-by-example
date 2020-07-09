@@ -33,10 +33,11 @@ mod for_and_range;
 mod match_flow; 
 mod match_destructure_tuple; 
 mod match_destructure_enum; 
+mod match_destructure_pointers; 
 */
 // CURRENT_EXAMPLE
-mod match_destructure_pointers; 
+mod match_destructure_structures; 
 
 fn main() {
-    match_destructure_pointers::play();
+    match_destructure_structures::play();
 }
