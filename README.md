@@ -47,3 +47,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- Destructuring:
 		- [match_destructure_tuple](../master/src/match_destructure_tuple.rs)
 		- [match_destructure_enum](../master/src/match_destructure_enum.rs)
+		- [match_destructure_pointers](../master/src/match_destructure_pointers.rs)
+		
