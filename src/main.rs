@@ -35,10 +35,11 @@ mod match_destructure_tuple;
 mod match_destructure_enum; 
 mod match_destructure_pointers; 
 mod match_destructure_structures; 
+mod match_guard; 
 */
 // CURRENT_EXAMPLE
-mod match_guard; 
+mod match_binding; 
 
 fn main() {
-    match_guard::play();
+    match_binding::play();
 }
