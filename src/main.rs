@@ -37,10 +37,11 @@ mod match_destructure_pointers;
 mod match_destructure_structures; 
 mod match_guard; 
 mod match_binding; 
+mod if_let; 
 */
 // CURRENT_EXAMPLE
-mod if_let; 
+mod while_let; 
 
 fn main() {
-    if_let::play();
+    while_let::play();
 }
