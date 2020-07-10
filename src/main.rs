@@ -36,10 +36,11 @@ mod match_destructure_enum;
 mod match_destructure_pointers; 
 mod match_destructure_structures; 
 mod match_guard; 
+mod match_binding; 
 */
 // CURRENT_EXAMPLE
-mod match_binding; 
+mod if_let; 
 
 fn main() {
-    match_binding::play();
+    if_let::play();
 }

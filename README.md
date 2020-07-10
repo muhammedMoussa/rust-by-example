@@ -51,4 +51,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 			- [match_destructure_structures](../master/src/match_destructure_structures.rs)
 			- [match_guard](../master/src/match_guard.rs)
 			- [match_binding](../master/src/match_binding.rs)
-			
+	- [if_let](../master/src/if_let.rs)
