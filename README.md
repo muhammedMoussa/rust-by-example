@@ -53,3 +53,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 			- [match_binding](../master/src/match_binding.rs)
 	- [if_let](../master/src/if_let.rs)
 	- [while_let](../master/src/while_let.rs)
+- [functions](../master/src/functions.rs)

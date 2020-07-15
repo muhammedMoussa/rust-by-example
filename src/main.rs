@@ -38,10 +38,11 @@ mod match_destructure_structures;
 mod match_guard; 
 mod match_binding; 
 mod if_let; 
+mod while_let; 
 */
 // CURRENT_EXAMPLE
-mod while_let; 
+mod functions; 
 
 fn main() {
-    while_let::play();
+    functions::play();
 }
