@@ -39,10 +39,11 @@ mod match_guard;
 mod match_binding; 
 mod if_let; 
 mod while_let; 
+mod functions; 
 */
 // CURRENT_EXAMPLE
-mod functions; 
+mod methods; 
 
 fn main() {
-    functions::play();
+    methods::play();
 }
