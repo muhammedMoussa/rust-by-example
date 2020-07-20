@@ -55,3 +55,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- [while_let](../master/src/while_let.rs)
 - [functions](../master/src/functions.rs)
 	- [methods](../master/src/methods.rs)
+	- [closures](../master/src/closures.rs)
