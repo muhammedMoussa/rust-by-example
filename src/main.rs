@@ -41,10 +41,11 @@ mod if_let;
 mod while_let; 
 mod methods; 
 mod functions; 
+mod closures; 
 */
 // CURRENT_EXAMPLE
-mod closures; 
+mod capture; 
 
 fn main() {
-    closures::play();
+    capture::play();
 }
