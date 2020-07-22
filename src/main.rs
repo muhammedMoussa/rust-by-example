@@ -42,10 +42,11 @@ mod while_let;
 mod methods; 
 mod functions; 
 mod closures; 
+mod capture; 
 */
 // CURRENT_EXAMPLE
-mod capture; 
+mod input_parameters; 
 
 fn main() {
-    capture::play();
+    input_parameters::play();
 }
