@@ -43,10 +43,11 @@ mod methods;
 mod functions; 
 mod closures; 
 mod capture; 
+mod input_parameters; 
 */
 // CURRENT_EXAMPLE
-mod input_parameters; 
+mod anonymity; 
 
 fn main() {
-    input_parameters::play();
+    anonymity::play();
 }
