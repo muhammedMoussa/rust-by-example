@@ -59,3 +59,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 		- [capture](../master/src/capture.rs)
 		- [input_parameters](../master/src/input_parameters.rs)
 		- [anonymity](../master/src/anonymity.rs)
+		- [input_functions](../master/src/input_functions.rs)
