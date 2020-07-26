@@ -46,10 +46,11 @@ mod capture;
 mod input_parameters; 
 mod anonymity; 
 mod input_functions; 
+mod output_parameters; 
 */
 // CURRENT_EXAMPLE
-mod output_parameters; 
+mod iter_any; 
 
 fn main() {
-    output_parameters::play();
+    iter_any::play();
 }

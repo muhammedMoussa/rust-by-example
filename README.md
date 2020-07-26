@@ -61,3 +61,6 @@ This repository is playing around examples and activities of **[rust-by-example]
 		- [anonymity](../master/src/anonymity.rs)
 		- [input_functions](../master/src/input_functions.rs)
 		- [output_parameters](../master/src/output_parameters.rs)
+			- Examples in std:
+				- [iter_any](../master/src/iter_any.rs)
+				
