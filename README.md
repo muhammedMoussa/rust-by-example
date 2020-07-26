@@ -60,3 +60,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 		- [input_parameters](../master/src/input_parameters.rs)
 		- [anonymity](../master/src/anonymity.rs)
 		- [input_functions](../master/src/input_functions.rs)
+		- [output_parameters](../master/src/output_parameters.rs)
