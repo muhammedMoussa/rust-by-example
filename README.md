@@ -64,4 +64,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 			- Examples in std:
 				- [iter_any](../master/src/iter_any.rs)
 				- [iter_find](../master/src/iter_find.rs)
-				
+		- [Higher Order Functions](../master/src/hof.rs)
