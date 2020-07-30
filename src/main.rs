@@ -49,10 +49,11 @@ mod input_functions;
 mod output_parameters; 
 mod iter_any; 
 mod iter_find; 
+mod hof; 
 */
 // CURRENT_EXAMPLE
-mod hof; 
+mod diverging; 
 
 fn main() {
-    hof::play();
+    diverging::play();
 }
