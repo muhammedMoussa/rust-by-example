@@ -67,3 +67,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 		- [Higher Order Functions](../master/src/hof.rs)
 		- [diverging](../master/src/diverging.rs)
 - Modules (wip)
+- crates
+	- [library](../master/src/rary.rs)
