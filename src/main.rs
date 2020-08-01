@@ -50,10 +50,11 @@ mod output_parameters;
 mod iter_any; 
 mod iter_find; 
 mod hof; 
+mod diverging; 
 */
 // CURRENT_EXAMPLE
-mod diverging; 
+mod link; 
 
 fn main() {
-    diverging::play();
+    link::main();
 }

@@ -69,3 +69,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 - Modules (wip)
 - crates
 	- [library](../master/src/rary.rs)
+	- [extern crate](../master/src/link.rs)
+	
