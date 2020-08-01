@@ -66,4 +66,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 				- [iter_find](../master/src/iter_find.rs)
 		- [Higher Order Functions](../master/src/hof.rs)
 		- [diverging](../master/src/diverging.rs)
-- Modules
+- Modules (wip)
