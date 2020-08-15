@@ -51,10 +51,11 @@ mod iter_any;
 mod iter_find; 
 mod hof; 
 mod diverging; 
+mod link; 
 */
 // CURRENT_EXAMPLE
-mod link; 
+mod dead_code; 
 
 fn main() {
-    link::main();
+    dead_code::play();
 }

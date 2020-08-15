@@ -71,3 +71,5 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- [library](../master/src/rary.rs)
 	- [extern crate](../master/src/link.rs)
 - Cargo (wip)
+- Attributes
+	- [dead_code](../master/src/dead_code.rs)
