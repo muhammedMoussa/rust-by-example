@@ -53,10 +53,11 @@ mod hof;
 mod diverging; 
 mod dead_code; 
 mod link; 
+mod crates; 
 */
 // CURRENT_EXAMPLE
-mod crates; 
+mod cfg; 
 
 fn main() {
-    crates::play();
+    cfg::play();
 }

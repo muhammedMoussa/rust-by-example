@@ -74,3 +74,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 - Attributes
 	- [dead_code](../master/src/dead_code.rs)
 	- [crates](../master/src/crates.rs)
+	- [cfg](../master/src/cfg.rs)
