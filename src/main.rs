@@ -54,10 +54,11 @@ mod diverging;
 mod dead_code; 
 mod link; 
 mod crates; 
+mod cfg; 
 */
 // CURRENT_EXAMPLE
-mod cfg; 
+mod custom_cfg; 
 
 fn main() {
-    cfg::play();
+    custom_cfg::play();
 }
