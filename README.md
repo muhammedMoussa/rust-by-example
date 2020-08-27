@@ -76,4 +76,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- [crates](../master/src/crates.rs)
 	- [cfg](../master/src/cfg.rs)
 		- [custom](../master/src/custom_cfg.rs)
-
+- [generics](../master/src/generics.rs)
