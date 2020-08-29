@@ -55,10 +55,11 @@ mod dead_code;
 mod link; 
 mod crates; 
 mod cfg; 
+mod custom_cfg; 
 */
 // CURRENT_EXAMPLE
-mod custom_cfg; 
+mod gen_fn; 
 
 fn main() {
-    custom_cfg::play();
+    gen_fn::play();
 }

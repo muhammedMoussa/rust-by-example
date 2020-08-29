@@ -77,3 +77,4 @@ This repository is playing around examples and activities of **[rust-by-example]
 	- [cfg](../master/src/cfg.rs)
 		- [custom](../master/src/custom_cfg.rs)
 - [Generics](../master/src/generics.rs)
+	- [Functions](../master/src/gen_fn.rs)
